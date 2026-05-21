@@ -12,22 +12,6 @@ LUNEXIS is an advanced, fully-autonomous desktop assistant built with a beautifu
 ## 🛠️ Tech Stack
 - **Frontend**: React.js, vanilla CSS, Web Speech API.
 - **Backend**: Node.js, Express, SystemInformation, Node Child Processes.
-
-## ⚙️ How to Run Locally
-
-### 1. Start the Backend Server (Port 5001)
-```bash
-cd Backend
-npm install
-npm start
-```
-*Note: Make sure you have created a `.env` file in the Backend folder with your `GROQ_API_KEY` and `PORT=5001`.*
-
-### 2. Start the Frontend App (Port 3000)
-```bash
-cd frontend
-npm install
-npm start
 ```
 
 ## 🔒 Proprietary Code
