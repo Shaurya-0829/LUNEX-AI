@@ -1,0 +1,7 @@
+# Global LUNEXIS Ignores
+node_modules/
+.env
+memory.json
+build/
+.DS_Store
+*.log
